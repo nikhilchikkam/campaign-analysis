@@ -1,0 +1,78 @@
+C:\Users\nxcstu\AppData\Local\Programs\Python\Python313\python.exe C:\Users\nxcstu\PycharmProjects\campaign_analysis\roar_day_gls\code\landingPage_analysis.py 
+Top 10 URLs based on Total Users:
+Entrance/Landing Page
+give.rit.edu/roar-day-2024                                                 1544
+www.givecampus.com/schools/RochesterInstituteofTechnology/roar-day-2024     721
+www.rit.edu/alumni/dinefor1829                                              173
+give.rit.edu(not set)                                                       135
+give.rit.edu/campaigns/52069/donations/new                                  134
+give.rit.edu/giving-day/78097/donate                                        131
+www.rit.edu/roar-day-2024                                                   112
+www.givecampus.com(not set)                                                  77
+give.rit.edu/giving-day/78097/leaderboards                                   72
+www.rit.edu(not set)                                                         59
+Name: Total Users, dtype: int64
+
+
+Top 10 URLs based on Sessions:
+Entrance/Landing Page
+give.rit.edu/roar-day-2024                                                 2399
+www.givecampus.com/schools/RochesterInstituteofTechnology/roar-day-2024    1159
+www.rit.edu/alumni/dinefor1829                                              189
+give.rit.edu/campaigns/52069/donations/new                                  179
+give.rit.edu(not set)                                                       147
+give.rit.edu/giving-day/78097/donate                                        140
+www.rit.edu/roar-day-2024                                                   121
+www.rit.edu/                                                                120
+www.givecampus.com(not set)                                                  97
+give.rit.edu/giving-day/78097/leaderboards                                   89
+Name: Sessions, dtype: int64
+
+
+Top 10 URLs based on Sessions w/ Interaction:
+Entrance/Landing Page
+give.rit.edu/roar-day-2024                                                 456
+www.givecampus.com/schools/RochesterInstituteofTechnology/roar-day-2024    266
+www.rit.edu/alumni/dinefor1829                                             127
+give.rit.edu/giving-day/78097/donate                                        80
+www.rit.edu/                                                                68
+give.rit.edu/giving-day/78097/leaderboards                                  66
+www.rit.edu/roar-day-2024                                                   55
+www.rit.edu/infocenter                                                      52
+give.rit.edu/campaigns/52069/donations/new                                  47
+www.rit.edu/eservices                                                       31
+Name: Sessions w/ Interaction, dtype: int64
+
+
+Top 10 URLs based on Interaction Rate:
+Entrance/Landing Page
+www.rit.edu/universitycouncil                                                                             1.0
+www.rit.edu/trustees/active                                                                               1.0
+www.rit.edu/security/cloud-computing-best-practices                                                       1.0
+www.rit.edu/science/afterit                                                                               1.0
+www.rit.edu/schools/RochesterInstituteofTechnology/roar-day-2024/pages/rit-athletics/womens-volleyball    1.0
+www.rit.edu/reporting-incident                                                                            1.0
+www.rit.edu/procurement/paymentworks-resources-rit-departmental-users                                     1.0
+www.rit.edu/publicsafety/accesscontrol                                                                    1.0
+www.rit.edu/policies/d020                                                                                 1.0
+give.rit.edu/campaigns/52069/donations/8752382                                                            1.0
+Name: Interaction Rate, dtype: float64
+
+
+Top 10 URLs based on CTA Click Rate:
+Entrance/Landing Page
+www-staging.rit.edu/physicseducationresearch/taxonomy/term/19968/delete    1.000000
+www.rit.edu/ai/undergraduate-courses                                       1.000000
+give.rit.edu/giving-day/78097/leaderboards                                 0.191011
+give.rit.edu/giving-day/78097/signup                                       0.111111
+www.rit.edu/                                                               0.016667
+give.rit.edu/giving-day/78097/donate                                       0.014286
+www.rit.edu/srs/templates-forms-agreements                                 0.000000
+www.rit.edu/site/SPageNavigator/RIT_donate.html                            0.000000
+eservices.rit.edu/eservices                                                0.000000
+www.rit.edu/universitystudies/office-veteran-student-success               0.000000
+Name: CTA Click Rate, dtype: float64
+
+
+
+Process finished with exit code 0

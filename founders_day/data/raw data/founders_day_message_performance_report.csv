@@ -1,0 +1,8 @@
+Message_Name,Delivery_Start__Date,Email Express Message,Number_Sent,Hard_Bounce_Count,Hard_Bounce_Rate,Soft_Bounce_Count,Soft_Bounce_Rate,Delivery_Count,Delivery_Rate,Open_Count,Open_Rate,Clickthrough_Count,Clickthrough_Rate,Action_Taken_Count,Action_Taken_Rate,Tell-A-Friend_Count,Tell-A-Friend_Rate,Unsubscribe_Count,Unsubscribe_Rate
+"Founders Day 2024 Launch - group 1","Jun 12, 2024 12:20:48 PM","No","12962","53","0.41","333","2.57","12576","97.02","3813","30.32","77","0.61","0","0","0","0","16","0.13"
+"Founders Day 2024 Launch - group 2","Jun 12, 2024 12:21:41 PM","No","13172","47","0.36","320","2.43","12805","97.21","4116","32.14","94","0.73","0","0","0","0","7","0.05"
+"Founders Day 2024 Launch - group 3","Jun 12, 2024 12:22:20 PM","No","14259","26","0.18","220","1.54","14013","98.27","4371","31.19","64","0.46","0","0","0","0","14","0.1"
+"Founders Day 2024 Launch - group 4","Jun 12, 2024 12:22:59 PM","No","14404","25","0.17","354","2.46","14025","97.37","4449","31.72","34","0.24","0","0","0","0","16","0.11"
+"Founders Day 2024 Launch - group 5","Jun 12, 2024 12:23:27 PM","No","9880","23","0.23","1314","13.3","8543","86.47","3053","35.74","22","0.26","0","0","0","0","6","0.07"
+"Founders Day 2024 Launch - group 6","Jun 12, 2024 12:24:04 PM","No","2145","7","0.33","861","40.14","1277","59.53","619","48.47","10","0.78","0","0","0","0","7","0.55"
+"Average",,,"11137","30.17","0.27","567","5.09","10539.83","94.64","3403.5","32.29","50.17","0.48","0","0","0","0","11","0.1"

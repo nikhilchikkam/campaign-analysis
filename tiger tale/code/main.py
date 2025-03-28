@@ -56,7 +56,7 @@ def thursday_hourly_clickthroughs(data):
     plt.show()
 
 def main():
-    file_path = r'data/AG_Report.xlsx'  # Change to your file path
+    file_path = r'tiger tale/data/AG_Report.xlsx'  # Change to your file path
     data = load_data(file_path)
 
     # print("Analyzing Day of the Week Click-Throughs...")
